@@ -1,4 +1,5 @@
-# Flipfull
+# Flipfull Forked
+<sub>Due to inactivity on the upstream flipfull repository, this exists temporarily to be an updated repository.</sub>
 
 Mods for the TCL Flip 4 5G (T440W, KaiOS 4.0). Each one is turned on and off
 in the Flipfull app on the phone. The list is in `userinit/features.ini`.
