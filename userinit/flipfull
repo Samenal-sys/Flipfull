@@ -46,7 +46,7 @@ APPS_WAITING=$STATE/apps-waiting
 APPS_APPLYING=$STATE/apps-applying
 GOOGLE_CLIENT=$CONFIG/google-client.json
 GOOGLE_REDIRECT=http://localhost/redirect/loginpages/redirect.html
-RELEASE_REPO=Smoked-Fish/Flipfull
+RELEASE_REPO=Samenal-sys/Flipfull
 UPDATE_DIR=/data/local/tmp/flipfull-update
 
 # printf isn't built into the phone's sh, each one is a process
